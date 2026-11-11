@@ -1,0 +1,752 @@
+{
+  "seed": 42,
+  "groups": {
+    "049_2_35_1920_011_1_05": "val",
+    "050_2_31_1920_011_1_05": "test",
+    "051_2_29_1920_014_1_05": "train",
+    "086_3_32_1920_010_0_10": "val",
+    "087_3_32_1920_010_0_10": "test",
+    "088_3_32_1920_010_0_10": "train",
+    "https://www.flickr.com/people/cogdog/": "train",
+    "https://www.flickr.com/people/27384147@N02/": "train",
+    "https://www.flickr.com/people/jacobian/": "train",
+    "https://www.flickr.com/people/jeremiaspereira/": "train",
+    "https://www.flickr.com/people/ruocaled/": "train",
+    "https://www.flickr.com/people/armydre2008/": "train",
+    "https://www.flickr.com/people/langecom/": "train",
+    "https://www.flickr.com/people/pheezy/": "train",
+    "https://www.flickr.com/people/nickimm/": "train",
+    "https://www.flickr.com/people/kitkaphotogirl/": "train",
+    "https://www.flickr.com/people/gartenfreuden/": "train",
+    "https://www.flickr.com/people/stevepj2009/": "train",
+    "https://www.flickr.com/people/alishav/": "train",
+    "https://www.flickr.com/people/wikimapa/": "train",
+    "https://www.flickr.com/people/domainededrogant/": "train",
+    "https://www.flickr.com/people/29278394@N00/": "train",
+    "https://www.flickr.com/people/donwest48/": "train",
+    "https://www.flickr.com/people/25559122@N06/": "train",
+    "https://www.flickr.com/people/thomaspix/": "train",
+    "https://www.flickr.com/people/zaqography/": "train",
+    "https://www.flickr.com/people/garethr/": "train",
+    "https://www.flickr.com/people/carbonnyc/": "train",
+    "https://www.flickr.com/people/castlenes/": "train",
+    "https://www.flickr.com/people/pennuja/": "train",
+    "https://www.flickr.com/people/oddsock/": "train",
+    "https://www.flickr.com/people/rodolfomagalhaes/": "train",
+    "https://www.flickr.com/people/wattagnet/": "train",
+    "https://www.flickr.com/people/cliche/": "train",
+    "https://www.flickr.com/people/baabuzz/": "train",
+    "https://www.flickr.com/people/calistan/": "train",
+    "https://www.flickr.com/people/mariachily/": "train",
+    "https://www.flickr.com/people/bobnrenee/": "train",
+    "https://www.flickr.com/people/michaeljohnbutton/": "train",
+    "https://www.flickr.com/people/ssicore/": "train",
+    "https://www.flickr.com/people/technoevangelist/": "train",
+    "https://www.flickr.com/people/pinti1/": "train",
+    "https://www.flickr.com/people/comeilmare/": "train",
+    "https://www.flickr.com/people/soikkeli/": "train",
+    "https://www.flickr.com/people/jonnyhunter/": "train",
+    "https://www.flickr.com/people/70176821@N06/": "train",
+    "https://www.flickr.com/people/gsloan/": "train",
+    "https://www.flickr.com/people/donaldjudge/": "train",
+    "https://www.flickr.com/people/empracht/": "train",
+    "https://www.flickr.com/people/barockschloss/": "train",
+    "https://www.flickr.com/people/90994070@N00/": "train",
+    "https://www.flickr.com/people/antmoose/": "train",
+    "https://www.flickr.com/people/13422316@N00/": "train",
+    "https://www.flickr.com/people/ciwfnl/": "train",
+    "https://www.flickr.com/people/houghtonbird/": "train",
+    "https://www.flickr.com/people/rvoegtli/": "train",
+    "https://www.flickr.com/people/petit_louis/": "train",
+    "https://www.flickr.com/people/peter_curb/": "train",
+    "https://www.flickr.com/people/indiauntravelled/": "train",
+    "https://www.flickr.com/people/sopues/": "train",
+    "https://www.flickr.com/people/watershedpost/": "train",
+    "https://www.flickr.com/people/alex_ford/": "train",
+    "https://www.flickr.com/people/32972667@N07/": "train",
+    "https://www.flickr.com/people/prybylphotos/": "train",
+    "https://www.flickr.com/people/benimoto/": "train",
+    "https://www.flickr.com/people/garwol/": "train",
+    "https://www.flickr.com/people/7326810@N08/": "train",
+    "https://www.flickr.com/people/shawnhargreaves/": "train",
+    "https://www.flickr.com/people/davidwilson1949/": "train",
+    "https://www.flickr.com/people/mjtmail/": "train",
+    "https://www.flickr.com/people/dierken/": "train",
+    "https://www.flickr.com/people/bonvoyagetohappy/": "train",
+    "https://www.flickr.com/people/ana_carrington/": "train",
+    "https://www.flickr.com/people/jumpyjodes/": "train",
+    "https://www.flickr.com/people/ginapina/": "train",
+    "https://www.flickr.com/people/stevenljohnson/": "train",
+    "https://www.flickr.com/people/fireflythegreat/": "train",
+    "https://www.flickr.com/people/74034125@N03/": "train",
+    "https://www.flickr.com/people/mualphachi/": "train",
+    "https://www.flickr.com/people/shankaronline/": "train",
+    "https://www.flickr.com/people/7254012@N08/": "train",
+    "https://www.flickr.com/people/nickhubbard/": "train",
+    "https://www.flickr.com/people/coolinsights/": "train",
+    "https://www.flickr.com/people/jamsmooth/": "train",
+    "https://www.flickr.com/people/51715344@N07/": "train",
+    "https://www.flickr.com/people/news21/": "train",
+    "https://www.flickr.com/people/norrafi/": "train",
+    "https://www.flickr.com/people/ken_mayer/": "train",
+    "https://www.flickr.com/people/unitedsoybean/": "train",
+    "https://www.flickr.com/people/happenstancephotos/": "train",
+    "https://www.flickr.com/people/martinalvarez/": "train",
+    "https://www.flickr.com/people/24309807@N06/": "train",
+    "https://www.flickr.com/people/youngshanahan/": "train",
+    "https://www.flickr.com/people/amani1306/": "train",
+    "https://www.flickr.com/people/abbysprouts/": "train",
+    "https://www.flickr.com/people/funcrush/": "train",
+    "https://www.flickr.com/people/22748341@N00/": "train",
+    "https://www.flickr.com/people/atoach/": "train",
+    "https://www.flickr.com/people/herrea/": "train",
+    "https://www.flickr.com/people/4u2lookat/": "train",
+    "https://www.flickr.com/people/128292337@N03/": "train",
+    "https://www.flickr.com/people/compose-r/": "train",
+    "https://www.flickr.com/people/befuddledsenses/": "train",
+    "https://www.flickr.com/people/18203311@N08/": "train",
+    "https://www.flickr.com/people/lindybuckley/": "train",
+    "https://www.flickr.com/people/meemal/": "train",
+    "https://www.flickr.com/people/brian395/": "train",
+    "https://www.flickr.com/people/toehk/": "train",
+    "https://www.flickr.com/people/korymatthew/": "train",
+    "https://www.flickr.com/people/mhoman/": "train",
+    "https://www.flickr.com/people/omaromar/": "train",
+    "https://www.flickr.com/people/flowcomm/": "train",
+    "https://www.flickr.com/people/jenniferpoole/": "train",
+    "https://www.flickr.com/people/uniform-studio/": "train",
+    "https://www.flickr.com/people/cumidanciki/": "train",
+    "https://www.flickr.com/people/niddynoo/": "train",
+    "https://www.flickr.com/people/crabchick/": "train",
+    "https://www.flickr.com/people/danja/": "train",
+    "https://www.flickr.com/people/boboroshi/": "train",
+    "https://www.flickr.com/people/hive/": "train",
+    "https://www.flickr.com/people/kendaggg/": "train",
+    "https://www.flickr.com/people/londonlooks/": "train",
+    "https://www.flickr.com/people/tedxmanhattan/": "train",
+    "https://www.flickr.com/people/24416724@N03/": "train",
+    "https://www.flickr.com/people/meg-z/": "train",
+    "https://www.flickr.com/people/pss/": "train",
+    "https://www.flickr.com/people/jaysmark/": "train",
+    "https://www.flickr.com/people/kezee/": "train",
+    "https://www.flickr.com/people/webb-zahn/": "train",
+    "https://www.flickr.com/people/mad_city_bastard/": "train",
+    "https://www.flickr.com/people/leandromartinez/": "train",
+    "https://www.flickr.com/people/64878888@N00/": "train",
+    "https://www.flickr.com/people/texese/": "train",
+    "https://www.flickr.com/people/zoetnet/": "train",
+    "https://www.flickr.com/people/vijay_chennupati/": "train",
+    "https://www.flickr.com/people/robandstephanielevy/": "train",
+    "https://www.flickr.com/people/computerhotline/": "train",
+    "https://www.flickr.com/people/inyucho/": "train",
+    "https://www.flickr.com/people/radellaf/": "train",
+    "https://www.flickr.com/people/italintheheart/": "train",
+    "https://www.flickr.com/people/notahipster/": "train",
+    "https://www.flickr.com/people/jdickert/": "train",
+    "https://www.flickr.com/people/grantlairdjr/": "train",
+    "https://www.flickr.com/people/dalesbest/": "train",
+    "https://www.flickr.com/people/ell-r-brown/": "train",
+    "https://www.flickr.com/people/brookfordfarm/": "train",
+    "https://www.flickr.com/people/jason-riedy/": "train",
+    "https://www.flickr.com/people/26279436@N02/": "train",
+    "https://www.flickr.com/people/oceanyamaha/": "train",
+    "https://www.flickr.com/people/boyarrin/": "train",
+    "https://www.flickr.com/people/labdog2010/": "train",
+    "https://www.flickr.com/people/bigpresh/": "train",
+    "https://www.flickr.com/people/fotos_dos_ornelas/": "train",
+    "https://www.flickr.com/people/33590535@N06/": "train",
+    "https://www.flickr.com/people/leisabell/": "train",
+    "https://www.flickr.com/people/joeshlabotnik/": "train",
+    "https://www.flickr.com/people/pandora_6666/": "train",
+    "https://www.flickr.com/people/29010088@N02/": "train",
+    "https://www.flickr.com/people/crschmidt/": "train",
+    "https://www.flickr.com/people/velacreations/": "train",
+    "https://www.flickr.com/people/bryanalexander/": "train",
+    "https://www.flickr.com/people/camillaleila/": "train",
+    "https://www.flickr.com/people/k9d/": "train",
+    "https://www.flickr.com/people/ozmafan/": "train",
+    "https://www.flickr.com/people/calliope/": "train"
+  },
+  "perspectives_by_split": {
+    "train": [
+      "foto_externa_mista",
+      "obliqua",
+      "superior"
+    ],
+    "val": [
+      "obliqua",
+      "superior"
+    ],
+    "test": [
+      "obliqua",
+      "superior"
+    ]
+  },
+  "confidence": 0.25,
+  "iou": 0.5,
+  "splits": {
+    "val": {
+      "map50": 0.8657631126646064,
+      "map50_95": 0.581571624298969,
+      "precision": 0.8377724221922583,
+      "recall": 0.8413571382557035,
+      "counts": {
+        "global": {
+          "images": 40,
+          "count_mae": 0.975,
+          "zone_count_mae": {
+            "esquerda": 0.675,
+            "centro": 1.075,
+            "direita": 0.275
+          },
+          "count_errors": [
+            {
+              "image": "049_2_35_1920_011_1_05_000357.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_001072.jpg",
+              "annotated": 11,
+              "detected": 13
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002143.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002501.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002858.jpg",
+              "annotated": 10,
+              "detected": 11
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003215.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003572.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003930.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005359.jpg",
+              "annotated": 10,
+              "detected": 12
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005716.jpg",
+              "annotated": 10,
+              "detected": 11
+            }
+          ],
+          "cluster_rule_error_rate": 0.3,
+          "cluster_rule_errors": [
+            {
+              "image": "049_2_35_1920_011_1_05_001072.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003572.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005716.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_006073.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_007145.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_002143.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_004286.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_006429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_007857.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_009286.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            }
+          ]
+        },
+        "obliqua": {
+          "images": 20,
+          "count_mae": 0.65,
+          "zone_count_mae": {
+            "esquerda": 0.75,
+            "centro": 0.75,
+            "direita": 0.25
+          },
+          "count_errors": [
+            {
+              "image": "049_2_35_1920_011_1_05_000357.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_001072.jpg",
+              "annotated": 11,
+              "detected": 13
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002143.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002501.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_002858.jpg",
+              "annotated": 10,
+              "detected": 11
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003215.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003572.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003930.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005359.jpg",
+              "annotated": 10,
+              "detected": 12
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005716.jpg",
+              "annotated": 10,
+              "detected": 11
+            }
+          ],
+          "cluster_rule_error_rate": 0.25,
+          "cluster_rule_errors": [
+            {
+              "image": "049_2_35_1920_011_1_05_001072.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_003572.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_005716.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_006073.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "049_2_35_1920_011_1_05_007145.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            }
+          ]
+        },
+        "superior": {
+          "images": 20,
+          "count_mae": 1.3,
+          "zone_count_mae": {
+            "esquerda": 0.6,
+            "centro": 1.4,
+            "direita": 0.3
+          },
+          "count_errors": [
+            {
+              "image": "086_3_32_1920_010_0_10_002143.jpg",
+              "annotated": 7,
+              "detected": 8
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_005000.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_005714.jpg",
+              "annotated": 9,
+              "detected": 8
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_006429.jpg",
+              "annotated": 8,
+              "detected": 10
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_007143.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_007857.jpg",
+              "annotated": 5,
+              "detected": 7
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_008571.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_009286.jpg",
+              "annotated": 7,
+              "detected": 6
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_010714.jpg",
+              "annotated": 6,
+              "detected": 9
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_011429.jpg",
+              "annotated": 7,
+              "detected": 8
+            }
+          ],
+          "cluster_rule_error_rate": 0.35,
+          "cluster_rule_errors": [
+            {
+              "image": "086_3_32_1920_010_0_10_002143.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_004286.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_006429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_007857.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_009286.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_012143.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "086_3_32_1920_010_0_10_013571.jpg",
+              "annotated_rule": true,
+              "detected_rule": false
+            }
+          ]
+        }
+      },
+      "detection_by_perspective": {
+        "obliqua": {
+          "map50": 0.9340639210295905,
+          "map50_95": 0.6222744459898106,
+          "precision": 0.8962935558023852,
+          "recall": 0.8481116041906112
+        },
+        "superior": {
+          "map50": 0.7479367866144966,
+          "map50_95": 0.5169891816701785,
+          "precision": 0.7642305589123539,
+          "recall": 0.8591549295774648
+        }
+      }
+    },
+    "test": {
+      "map50": 0.9294968641847839,
+      "map50_95": 0.61665501178445,
+      "precision": 0.8574057948025666,
+      "recall": 0.9485164549348196,
+      "counts": {
+        "global": {
+          "images": 40,
+          "count_mae": 1.3,
+          "zone_count_mae": {
+            "esquerda": 0.25,
+            "centro": 1.275,
+            "direita": 0.275
+          },
+          "count_errors": [
+            {
+              "image": "050_2_31_1920_011_1_05_000357.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_001429.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_001786.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_002500.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_004643.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_000714.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_001429.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_002857.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_004286.jpg",
+              "annotated": 6,
+              "detected": 10
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_005714.jpg",
+              "annotated": 7,
+              "detected": 10
+            }
+          ],
+          "cluster_rule_error_rate": 0.125,
+          "cluster_rule_errors": [
+            {
+              "image": "050_2_31_1920_011_1_05_005714.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_005714.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_006429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_011429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_012143.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            }
+          ]
+        },
+        "obliqua": {
+          "images": 20,
+          "count_mae": 0.25,
+          "zone_count_mae": {
+            "esquerda": 0.0,
+            "centro": 0.5,
+            "direita": 0.45
+          },
+          "count_errors": [
+            {
+              "image": "050_2_31_1920_011_1_05_000357.jpg",
+              "annotated": 11,
+              "detected": 10
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_001429.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_001786.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_002500.jpg",
+              "annotated": 11,
+              "detected": 12
+            },
+            {
+              "image": "050_2_31_1920_011_1_05_004643.jpg",
+              "annotated": 11,
+              "detected": 12
+            }
+          ],
+          "cluster_rule_error_rate": 0.05,
+          "cluster_rule_errors": [
+            {
+              "image": "050_2_31_1920_011_1_05_005714.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            }
+          ]
+        },
+        "superior": {
+          "images": 20,
+          "count_mae": 2.35,
+          "zone_count_mae": {
+            "esquerda": 0.5,
+            "centro": 2.05,
+            "direita": 0.1
+          },
+          "count_errors": [
+            {
+              "image": "087_3_32_1920_010_0_10_000714.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_001429.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_002857.jpg",
+              "annotated": 8,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_004286.jpg",
+              "annotated": 6,
+              "detected": 10
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_005714.jpg",
+              "annotated": 7,
+              "detected": 10
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_006429.jpg",
+              "annotated": 4,
+              "detected": 7
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_007143.jpg",
+              "annotated": 6,
+              "detected": 8
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_007857.jpg",
+              "annotated": 5,
+              "detected": 9
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_008571.jpg",
+              "annotated": 8,
+              "detected": 10
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_009286.jpg",
+              "annotated": 8,
+              "detected": 10
+            }
+          ],
+          "cluster_rule_error_rate": 0.2,
+          "cluster_rule_errors": [
+            {
+              "image": "087_3_32_1920_010_0_10_005714.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_006429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_011429.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            },
+            {
+              "image": "087_3_32_1920_010_0_10_012143.jpg",
+              "annotated_rule": false,
+              "detected_rule": true
+            }
+          ]
+        }
+      },
+      "detection_by_perspective": {
+        "obliqua": {
+          "map50": 0.9876830996572339,
+          "map50_95": 0.6453248631440063,
+          "precision": 0.963731772338192,
+          "recall": 0.9662720290243699
+        },
+        "superior": {
+          "map50": 0.7879121991158261,
+          "map50_95": 0.5513132651346534,
+          "precision": 0.7219647617221079,
+          "recall": 0.9259259259259259
+        }
+      }
+    }
+  }
+}

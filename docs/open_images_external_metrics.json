@@ -1,0 +1,210 @@
+{
+  "source": "Open Images V5 validation, Chicken /m/09b5t",
+  "scope": "external_only_no_training_or_tuning",
+  "images": 18,
+  "annotated_boxes": 31,
+  "confidence_for_count": 0.25,
+  "global_detection": {
+    "map50": 0.005750730364168789,
+    "map50_95": 0.002372309250662158,
+    "precision": 0.019536040895203714,
+    "recall": 0.22580645161290322
+  },
+  "detection_by_perspective": {
+    "frontal_3_4": {
+      "map50": 0.02316524422801411,
+      "map50_95": 0.009697398711155696,
+      "precision": 0.04786733805368158,
+      "recall": 0.3888888888888889
+    },
+    "lateral": {
+      "map50": 0.00020137103684661527,
+      "map50_95": 5.090275705053542e-05,
+      "precision": 0.0008333333333333334,
+      "recall": 0.23076923076923078
+    }
+  },
+  "counts": {
+    "global": {
+      "images": 18,
+      "count_mae": 16.72222222222222,
+      "zone_count_mae": {
+        "esquerda": 5.555555555555555,
+        "centro": 5.722222222222222,
+        "direita": 5.444444444444445
+      },
+      "count_errors": [
+        {
+          "image": "01463f5494340d3d.jpg",
+          "annotated": 1,
+          "detected": 7
+        },
+        {
+          "image": "0d3da02e79f84dde.jpg",
+          "annotated": 1,
+          "detected": 20
+        },
+        {
+          "image": "222c38d9991e97e2.jpg",
+          "annotated": 1,
+          "detected": 14
+        },
+        {
+          "image": "2530c0af68019228.jpg",
+          "annotated": 1,
+          "detected": 20
+        },
+        {
+          "image": "313a49ce1db7ace7.jpg",
+          "annotated": 2,
+          "detected": 9
+        },
+        {
+          "image": "3cbe64aa3e4ee0b7.jpg",
+          "annotated": 1,
+          "detected": 8
+        },
+        {
+          "image": "44dba1c853605435.jpg",
+          "annotated": 1,
+          "detected": 16
+        },
+        {
+          "image": "48afeccfea976d06.jpg",
+          "annotated": 1,
+          "detected": 25
+        },
+        {
+          "image": "4cf84aa31d937833.jpg",
+          "annotated": 1,
+          "detected": 14
+        },
+        {
+          "image": "579c78c63faf394a.jpg",
+          "annotated": 3,
+          "detected": 36
+        }
+      ],
+      "cluster_rule_error_rate": 0.05555555555555555,
+      "cluster_rule_errors": [
+        {
+          "image": "3cbe64aa3e4ee0b7.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "lateral": {
+      "images": 12,
+      "count_mae": 15.833333333333334,
+      "zone_count_mae": {
+        "esquerda": 5.25,
+        "centro": 5.333333333333333,
+        "direita": 5.25
+      },
+      "count_errors": [
+        {
+          "image": "01463f5494340d3d.jpg",
+          "annotated": 1,
+          "detected": 7
+        },
+        {
+          "image": "0d3da02e79f84dde.jpg",
+          "annotated": 1,
+          "detected": 20
+        },
+        {
+          "image": "2530c0af68019228.jpg",
+          "annotated": 1,
+          "detected": 20
+        },
+        {
+          "image": "313a49ce1db7ace7.jpg",
+          "annotated": 2,
+          "detected": 9
+        },
+        {
+          "image": "3cbe64aa3e4ee0b7.jpg",
+          "annotated": 1,
+          "detected": 8
+        },
+        {
+          "image": "44dba1c853605435.jpg",
+          "annotated": 1,
+          "detected": 16
+        },
+        {
+          "image": "48afeccfea976d06.jpg",
+          "annotated": 1,
+          "detected": 25
+        },
+        {
+          "image": "4cf84aa31d937833.jpg",
+          "annotated": 1,
+          "detected": 14
+        },
+        {
+          "image": "6eb70509fcd7d06b.jpg",
+          "annotated": 1,
+          "detected": 44
+        },
+        {
+          "image": "8c67f6e6c2ca8a6d.jpg",
+          "annotated": 1,
+          "detected": 18
+        }
+      ],
+      "cluster_rule_error_rate": 0.08333333333333333,
+      "cluster_rule_errors": [
+        {
+          "image": "3cbe64aa3e4ee0b7.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "frontal_3_4": {
+      "images": 6,
+      "count_mae": 18.5,
+      "zone_count_mae": {
+        "esquerda": 6.166666666666667,
+        "centro": 6.5,
+        "direita": 5.833333333333333
+      },
+      "count_errors": [
+        {
+          "image": "222c38d9991e97e2.jpg",
+          "annotated": 1,
+          "detected": 14
+        },
+        {
+          "image": "579c78c63faf394a.jpg",
+          "annotated": 3,
+          "detected": 36
+        },
+        {
+          "image": "85f0d599b3e1d8da.jpg",
+          "annotated": 4,
+          "detected": 27
+        },
+        {
+          "image": "8739bda4dd4a1fd5.jpg",
+          "annotated": 1,
+          "detected": 14
+        },
+        {
+          "image": "e74990a1ca28e590.jpg",
+          "annotated": 5,
+          "detected": 18
+        },
+        {
+          "image": "f0a8b1d9fc15bf40.jpg",
+          "annotated": 4,
+          "detected": 20
+        }
+      ],
+      "cluster_rule_error_rate": 0.0,
+      "cluster_rule_errors": []
+    }
+  }
+}

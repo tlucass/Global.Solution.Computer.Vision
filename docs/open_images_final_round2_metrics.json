@@ -1,0 +1,226 @@
+{
+  "source": "Open Images V5 test, Chicken /m/09b5t",
+  "scope": "external_final_no_training_or_tuning",
+  "images": 30,
+  "annotated_boxes": 49,
+  "confidence_for_count": 0.25,
+  "iou_for_count": 0.5,
+  "global_detection": {
+    "map50": 0.7478470903121089,
+    "map50_95": 0.4278896181831301,
+    "precision": 0.7533449622068368,
+    "recall": 0.6326530612244898
+  },
+  "detection_by_perspective": {
+    "frontal_3_4": {
+      "map50": 0.8155714285714284,
+      "map50_95": 0.47918600114510657,
+      "precision": 0.8701573690608629,
+      "recall": 0.7857142857142857
+    },
+    "lateral": {
+      "map50": 0.7190718010028179,
+      "map50_95": 0.4126186851043225,
+      "precision": 0.764066941032421,
+      "recall": 0.6479111783600255
+    }
+  },
+  "counts": {
+    "global": {
+      "images": 30,
+      "count_mae": 0.5,
+      "zone_count_mae": {
+        "esquerda": 0.3,
+        "centro": 0.43333333333333335,
+        "direita": 0.23333333333333334
+      },
+      "count_errors": [
+        {
+          "image": "8f117fdca46579b4.jpg",
+          "annotated": 2,
+          "detected": 3
+        },
+        {
+          "image": "665843d2606bf54e.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "749e2c951c4b6a7a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "abfa9cf2d258e4a2.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "b5e8ea4ba1c290c3.jpg",
+          "annotated": 2,
+          "detected": 1
+        },
+        {
+          "image": "6495694a3058938f.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "d00847efb6c628bb.jpg",
+          "annotated": 2,
+          "detected": 4
+        },
+        {
+          "image": "ec119ef34fd73ff0.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "a18eddc466ba52c4.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "fa630d5f1ade0b55.jpg",
+          "annotated": 4,
+          "detected": 5
+        }
+      ],
+      "cluster_rule_error_rate": 0.13333333333333333,
+      "cluster_rule_errors": [
+        {
+          "image": "8f117fdca46579b4.jpg",
+          "annotated_rule": true,
+          "detected_rule": false
+        },
+        {
+          "image": "665843d2606bf54e.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "749e2c951c4b6a7a.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "abfa9cf2d258e4a2.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "lateral": {
+      "images": 24,
+      "count_mae": 0.4583333333333333,
+      "zone_count_mae": {
+        "esquerda": 0.2916666666666667,
+        "centro": 0.4166666666666667,
+        "direita": 0.16666666666666666
+      },
+      "count_errors": [
+        {
+          "image": "8f117fdca46579b4.jpg",
+          "annotated": 2,
+          "detected": 3
+        },
+        {
+          "image": "665843d2606bf54e.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "749e2c951c4b6a7a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "abfa9cf2d258e4a2.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "b5e8ea4ba1c290c3.jpg",
+          "annotated": 2,
+          "detected": 1
+        },
+        {
+          "image": "ec119ef34fd73ff0.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "a18eddc466ba52c4.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "e454c458fd8a99df.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "777016f05f22de93.jpg",
+          "annotated": 4,
+          "detected": 3
+        },
+        {
+          "image": "f6e2e32cee27e71a.jpg",
+          "annotated": 2,
+          "detected": 1
+        }
+      ],
+      "cluster_rule_error_rate": 0.16666666666666666,
+      "cluster_rule_errors": [
+        {
+          "image": "8f117fdca46579b4.jpg",
+          "annotated_rule": true,
+          "detected_rule": false
+        },
+        {
+          "image": "665843d2606bf54e.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "749e2c951c4b6a7a.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "abfa9cf2d258e4a2.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "frontal_3_4": {
+      "images": 6,
+      "count_mae": 0.6666666666666666,
+      "zone_count_mae": {
+        "esquerda": 0.3333333333333333,
+        "centro": 0.5,
+        "direita": 0.5
+      },
+      "count_errors": [
+        {
+          "image": "6495694a3058938f.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "d00847efb6c628bb.jpg",
+          "annotated": 2,
+          "detected": 4
+        },
+        {
+          "image": "fa630d5f1ade0b55.jpg",
+          "annotated": 4,
+          "detected": 5
+        }
+      ],
+      "cluster_rule_error_rate": 0.0,
+      "cluster_rule_errors": []
+    }
+  }
+}

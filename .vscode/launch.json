@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "AviRonda: processar input",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/infer.py",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "console": "internalConsole"
+    }
+  ]
+}

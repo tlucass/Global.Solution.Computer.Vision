@@ -1,0 +1,170 @@
+{
+  "val": {
+    "obliqua": {
+      "fp_total": 329,
+      "fn_total": 41,
+      "examples": [
+        {
+          "image": "049_2_35_1920_011_1_05_000357.jpg",
+          "false_positives": 15,
+          "missed": 2,
+          "annotated": 11,
+          "detected": 24
+        },
+        {
+          "image": "049_2_35_1920_011_1_05_000714.jpg",
+          "false_positives": 15,
+          "missed": 2,
+          "annotated": 11,
+          "detected": 24
+        },
+        {
+          "image": "049_2_35_1920_011_1_05_001072.jpg",
+          "false_positives": 19,
+          "missed": 2,
+          "annotated": 11,
+          "detected": 28
+        },
+        {
+          "image": "049_2_35_1920_011_1_05_001429.jpg",
+          "false_positives": 16,
+          "missed": 3,
+          "annotated": 11,
+          "detected": 24
+        },
+        {
+          "image": "049_2_35_1920_011_1_05_001786.jpg",
+          "false_positives": 12,
+          "missed": 2,
+          "annotated": 11,
+          "detected": 21
+        }
+      ]
+    },
+    "superior": {
+      "fp_total": 192,
+      "fn_total": 15,
+      "examples": [
+        {
+          "image": "086_3_32_1920_010_0_10_000714.jpg",
+          "false_positives": 5,
+          "missed": 0,
+          "annotated": 7,
+          "detected": 12
+        },
+        {
+          "image": "086_3_32_1920_010_0_10_001429.jpg",
+          "false_positives": 9,
+          "missed": 1,
+          "annotated": 7,
+          "detected": 15
+        },
+        {
+          "image": "086_3_32_1920_010_0_10_002143.jpg",
+          "false_positives": 8,
+          "missed": 1,
+          "annotated": 7,
+          "detected": 14
+        },
+        {
+          "image": "086_3_32_1920_010_0_10_002857.jpg",
+          "false_positives": 5,
+          "missed": 1,
+          "annotated": 8,
+          "detected": 12
+        },
+        {
+          "image": "086_3_32_1920_010_0_10_003571.jpg",
+          "false_positives": 9,
+          "missed": 1,
+          "annotated": 9,
+          "detected": 17
+        }
+      ]
+    }
+  },
+  "test": {
+    "obliqua": {
+      "fp_total": 91,
+      "fn_total": 14,
+      "examples": [
+        {
+          "image": "050_2_31_1920_011_1_05_000357.jpg",
+          "false_positives": 5,
+          "missed": 1,
+          "annotated": 11,
+          "detected": 15
+        },
+        {
+          "image": "050_2_31_1920_011_1_05_000714.jpg",
+          "false_positives": 7,
+          "missed": 0,
+          "annotated": 11,
+          "detected": 18
+        },
+        {
+          "image": "050_2_31_1920_011_1_05_001071.jpg",
+          "false_positives": 4,
+          "missed": 1,
+          "annotated": 11,
+          "detected": 14
+        },
+        {
+          "image": "050_2_31_1920_011_1_05_001429.jpg",
+          "false_positives": 4,
+          "missed": 0,
+          "annotated": 11,
+          "detected": 15
+        },
+        {
+          "image": "050_2_31_1920_011_1_05_001786.jpg",
+          "false_positives": 6,
+          "missed": 0,
+          "annotated": 11,
+          "detected": 17
+        }
+      ]
+    },
+    "superior": {
+      "fp_total": 206,
+      "fn_total": 1,
+      "examples": [
+        {
+          "image": "087_3_32_1920_010_0_10_000714.jpg",
+          "false_positives": 10,
+          "missed": 0,
+          "annotated": 8,
+          "detected": 18
+        },
+        {
+          "image": "087_3_32_1920_010_0_10_001429.jpg",
+          "false_positives": 7,
+          "missed": 0,
+          "annotated": 8,
+          "detected": 15
+        },
+        {
+          "image": "087_3_32_1920_010_0_10_002143.jpg",
+          "false_positives": 6,
+          "missed": 0,
+          "annotated": 9,
+          "detected": 15
+        },
+        {
+          "image": "087_3_32_1920_010_0_10_002857.jpg",
+          "false_positives": 8,
+          "missed": 0,
+          "annotated": 8,
+          "detected": 16
+        },
+        {
+          "image": "087_3_32_1920_010_0_10_003571.jpg",
+          "false_positives": 9,
+          "missed": 0,
+          "annotated": 9,
+          "detected": 18
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# Arquivos locais do loop engineering
+AGENTS.md
+GOALS.md
+.codex/
+.vscode/settings.json
+
+# Entradas e resultados locais do usuário
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+# Dados e artefatos grandes ou temporários
+data/raw/
+data/processed*/
+data/manifest.csv
+data/open_images_external.csv
+data/manifest_candidate.csv
+data/manifest_diverse.csv
+data/manifest_pio_trial*.csv
+data/manifest_pio.csv
+runs/
+checkpoints/
+models/*
+!models/galinhas.pt
+yolo*.pt
+*.pyc
+__pycache__/
+.venv/
+.env

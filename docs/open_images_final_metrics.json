@@ -1,0 +1,247 @@
+{
+  "source": "Open Images V5 test, Chicken /m/09b5t",
+  "scope": "external_final_no_training_or_tuning",
+  "images": 30,
+  "annotated_boxes": 43,
+  "confidence_for_count": 0.25,
+  "iou_for_count": 0.5,
+  "global_detection": {
+    "map50": 0.7208785307325806,
+    "map50_95": 0.3738287755779569,
+    "precision": 0.7302078101505086,
+    "recall": 0.7441860465116279
+  },
+  "detection_by_perspective": {
+    "frontal_3_4": {
+      "map50": 0.8259056603773585,
+      "map50_95": 0.5882398622342019,
+      "precision": 0.8229592112836789,
+      "recall": 0.8333333333333334
+    },
+    "lateral": {
+      "map50": 0.617872890662549,
+      "map50_95": 0.2987255438493651,
+      "precision": 0.5697115310975555,
+      "recall": 0.7419354838709677
+    }
+  },
+  "counts": {
+    "global": {
+      "images": 30,
+      "count_mae": 0.6666666666666666,
+      "zone_count_mae": {
+        "esquerda": 0.3,
+        "centro": 0.2,
+        "direita": 0.3
+      },
+      "count_errors": [
+        {
+          "image": "6958080342d89c4e.jpg",
+          "annotated": 3,
+          "detected": 4
+        },
+        {
+          "image": "df4a81c2acd2d86f.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "03bc7fbc956b3a9a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "6ef87829f5302fad.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "70e6c76dad29e20a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "800cac348495765c.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "9b021e285d010caa.jpg",
+          "annotated": 6,
+          "detected": 3
+        },
+        {
+          "image": "497a4a5c148680f1.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "645a91b212a73d42.jpg",
+          "annotated": 2,
+          "detected": 3
+        },
+        {
+          "image": "ec341c4dc3e6586f.jpg",
+          "annotated": 1,
+          "detected": 2
+        }
+      ],
+      "cluster_rule_error_rate": 0.2,
+      "cluster_rule_errors": [
+        {
+          "image": "800cac348495765c.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "9b021e285d010caa.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "645a91b212a73d42.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "3f5b10dc58c13ac7.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "e248065f45bdc35d.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "9a86010931b34073.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "lateral": {
+      "images": 24,
+      "count_mae": 0.7083333333333334,
+      "zone_count_mae": {
+        "esquerda": 0.375,
+        "centro": 0.16666666666666666,
+        "direita": 0.3333333333333333
+      },
+      "count_errors": [
+        {
+          "image": "df4a81c2acd2d86f.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "03bc7fbc956b3a9a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "6ef87829f5302fad.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "70e6c76dad29e20a.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "800cac348495765c.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "9b021e285d010caa.jpg",
+          "annotated": 6,
+          "detected": 3
+        },
+        {
+          "image": "497a4a5c148680f1.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "645a91b212a73d42.jpg",
+          "annotated": 2,
+          "detected": 3
+        },
+        {
+          "image": "ec341c4dc3e6586f.jpg",
+          "annotated": 1,
+          "detected": 2
+        },
+        {
+          "image": "9211722b9d501ab6.jpg",
+          "annotated": 1,
+          "detected": 2
+        }
+      ],
+      "cluster_rule_error_rate": 0.16666666666666666,
+      "cluster_rule_errors": [
+        {
+          "image": "800cac348495765c.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "9b021e285d010caa.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "645a91b212a73d42.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "3f5b10dc58c13ac7.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    },
+    "frontal_3_4": {
+      "images": 6,
+      "count_mae": 0.5,
+      "zone_count_mae": {
+        "esquerda": 0.0,
+        "centro": 0.3333333333333333,
+        "direita": 0.16666666666666666
+      },
+      "count_errors": [
+        {
+          "image": "6958080342d89c4e.jpg",
+          "annotated": 3,
+          "detected": 4
+        },
+        {
+          "image": "e248065f45bdc35d.jpg",
+          "annotated": 4,
+          "detected": 3
+        },
+        {
+          "image": "9a86010931b34073.jpg",
+          "annotated": 1,
+          "detected": 2
+        }
+      ],
+      "cluster_rule_error_rate": 0.3333333333333333,
+      "cluster_rule_errors": [
+        {
+          "image": "e248065f45bdc35d.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        },
+        {
+          "image": "9a86010931b34073.jpg",
+          "annotated_rule": false,
+          "detected_rule": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "model": "models/galinhas.pt",
+  "confidence": 0.25,
+  "nms_iou": 0.5,
+  "criterion": "Revisão visual independente das caixas: maioria das aves visíveis em um grupo com contato ou proximidade de até um comprimento de ave. Rotulagem visual por Codex (IA), sem especialista humano; amostra escolhida por casos claros.",
+  "samples": 12,
+  "accuracy": 0.75,
+  "by_perspective": {
+    "obliqua": {
+      "samples": 6,
+      "accuracy": 1.0
+    },
+    "superior": {
+      "samples": 6,
+      "accuracy": 0.5
+    }
+  },
+  "errors": [
+    {
+      "image": "087_3_32_1920_010_0_10_000714.jpg",
+      "perspective": "superior",
+      "visual_label": 0,
+      "rule_prediction": 1,
+      "correct": false
+    },
+    {
+      "image": "087_3_32_1920_010_0_10_011429.jpg",
+      "perspective": "superior",
+      "visual_label": 0,
+      "rule_prediction": 1,
+      "correct": false
+    },
+    {
+      "image": "087_3_32_1920_010_0_10_014286.jpg",
+      "perspective": "superior",
+      "visual_label": 0,
+      "rule_prediction": 1,
+      "correct": false
+    }
+  ]
+}
