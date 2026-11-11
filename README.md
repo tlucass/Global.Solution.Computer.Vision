@@ -20,7 +20,7 @@ python3 -m venv .venv
 ./.venv/bin/python -m pip install -r requirements.txt
 ```
 
-O modelo customizado já acompanha o repositório em `models/galinhas.pt`: não é necessário baixar os dados de treino para fazer inferência. Coloque arquivos `.jpg`, `.jpeg`, `.png`, `.webp`, `.mp4`, `.avi` ou `.mov` em `input/`. A pasta começa vazia. Para um teste rápido, copie as cinco amostras de [`examples/`](examples/) para `input/`: no PowerShell, `Copy-Item examples\* input\`; em Linux/macOS, `cp examples/* input/`. Depois execute **um** dos comandos:
+O modelo customizado já acompanha o repositório em `models/galinhas.pt`: não é necessário baixar os dados de treino para fazer inferência. Coloque arquivos `.jpg`, `.jpeg`, `.png`, `.webp`, `.mp4`, `.avi` ou `.mov` em `input/`. A pasta começa vazia. Para um teste rápido, copie as cinco amostras de [`examples/`](examples/) para `input/`, ou então, insira imagens ou vídeos que desejar. Depois execute **um** dos comandos:
 
 ```powershell
 # Windows PowerShell
@@ -31,8 +31,6 @@ O modelo customizado já acompanha o repositório em `models/galinhas.pt`: não 
 # Linux/macOS
 ./.venv/bin/python src/infer.py
 ```
-
-No VS Code no Windows, a opção **AviRonda: processar input** em **Run and Debug** permite usar `F5` ou `Ctrl+F5`, com a extensão Microsoft Python Debugger. O botão Play de execução de arquivo pode produzir comandos mal citados no Git Bash; use o comando PowerShell acima nesse caso.
 
 Cada entrada produz um arquivo visual com o mesmo nome e um CSV `<nome original>.csv` em `output/`. Cada linha do CSV informa quadro, total, contagem à esquerda/centro/direita e `aglomeração_visual`. Executar de novo substitui os resultados de mesmo nome sem modificar as entradas. Vídeos `.mov` dependem do codec disponível no OpenCV. As três faixas têm larguras iguais; a zona vem do centro da caixa. Aglomeração visual vale 1 quando uma faixa reúne ao menos 60% das detecções e há duas ou mais detecções.
 
